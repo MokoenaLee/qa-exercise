@@ -21,7 +21,8 @@ public class FileExists {
 		
 		/*Specify file Path**/
 		
-		String path = "./../CodingExercises/src/words.txt";
+		String path = "./../Q1_FileExist/src/words.txt";
+		
 		
 		boolean fileExists = fileCheck.doesFileExist(path);
 		
